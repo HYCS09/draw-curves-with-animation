@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draw-curves-with-animation/static/css/main.16b6f990.css",
+    "main.js": "/draw-curves-with-animation/static/js/main.72bc3243.js",
+    "static/js/787.a364612e.chunk.js": "/draw-curves-with-animation/static/js/787.a364612e.chunk.js",
+    "index.html": "/draw-curves-with-animation/index.html",
+    "main.16b6f990.css.map": "/draw-curves-with-animation/static/css/main.16b6f990.css.map",
+    "main.72bc3243.js.map": "/draw-curves-with-animation/static/js/main.72bc3243.js.map",
+    "787.a364612e.chunk.js.map": "/draw-curves-with-animation/static/js/787.a364612e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b6f990.css",
+    "static/js/main.72bc3243.js"
+  ]
+}
